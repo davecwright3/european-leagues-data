@@ -1,1 +1,8 @@
-# european-leagues-data
+* European League Soccer Data
+This repository contains match data for
+- Premiere League
+- Bundesliga
+- Serie A 
+- La Liga
+- Ligue 1
+for the 1999/2000 - 2019/2020 Seasons.
